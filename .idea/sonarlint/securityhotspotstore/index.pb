@@ -11,3 +11,5 @@ E
 tests/trading.test.ts,f/0/f0756157ede790959f86d7b51ff4517a088985f5
 I
 contracts/compliance.clar,e/f/ef2d9bb3aeb216b5716369e80f576a9d2c5cb2e0
+H
+tests/compliance.test.ts,0/2/02b294a145358ae31de1a668e8d855a8e4139e16
